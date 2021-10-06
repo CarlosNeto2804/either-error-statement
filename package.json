@@ -7,9 +7,6 @@
   "files": [
     "/dist"
   ],
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/CarlosNeto2804/either-error-statement/issues"
   },
-  "homepage": "https://github.com/CarlosNeto2804/either-error-statement#readme"
+  "homepage": "https://github.com/CarlosNeto2804/either-error-statement#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.3"
+  }
 }
